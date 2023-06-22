@@ -1,0 +1,42 @@
+{
+  "name": "pbl",
+  "version": "1.0.0",
+  "main": "node_modules/expo/AppEntry.js",
+  "scripts": {
+    "start": "expo start",
+    "android": "expo start --android",
+    "ios": "expo start --ios",
+    "web": "expo start --web"
+  },
+  "dependencies": {
+    "@awrminkhodaei/react-native-horizontal-datepicker": "^0.1.6",
+    "@expo/vector-icons": "^13.0.0",
+    "@react-native-async-storage/async-storage": "1.17.11",
+    "@react-native-firebase/app": "^18.0.0",
+    "@react-navigation/bottom-tabs": "^6.5.7",
+    "@react-navigation/material-top-tabs": "^6.6.2",
+    "@react-navigation/native": "^6.1.6",
+    "@react-navigation/native-stack": "^6.9.12",
+    "axios": "^1.4.0",
+    "bcrypt": "^5.1.0",
+    "expo": "~48.0.15",
+    "expo-status-bar": "~1.4.4",
+    "firebase": "^9.22.2",
+    "moment-jalaali": "^0.10.0",
+    "react": "18.2.0",
+    "react-native": "0.71.8",
+    "react-native-animatable": "^1.3.3",
+    "react-native-gesture-handler": "~2.9.0",
+    "react-native-image-crop-picker": "^0.40.0",
+    "react-native-paper": "^5.8.0",
+    "react-native-paypal": "^4.1.0",
+    "react-native-reanimated": "~2.14.4",
+    "react-native-swiper": "^1.6.0",
+    "react-native-vector-icons": "^9.2.0",
+    "reanimated-bottom-sheet": "^1.0.0-alpha.22"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.20.0"
+  },
+  "private": true
+}
